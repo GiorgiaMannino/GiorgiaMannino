@@ -1,7 +1,7 @@
 # 👋 Ciao! Sono Giorgia Mannino
 
 🎓 Ho 26 anni e vengo da Palermo. 
-Dopo la laurea magistrale in **Design e Cultura del Territorio**, ho scelto di ampliare il mio percorso integrando alle competenze creative quelle tecniche, immergermi completamente nello **sviluppo web**.
+Dopo la laurea magistrale in **Design e Cultura del Territorio**, ho scelto di ampliare il mio percorso integrando alle competenze creative quelle tecniche, immergendomi completamente nello **sviluppo web**.
 
 🎨 Durante il percorso universitario ho maturato solide competenze in in ambito **grafico** e **UX/UI**, lavorando con strumenti come Figma per la prototipazione di interfacce. 
 Questo mi ha portato ad appassionarmi non solo all’aspetto visivo dei progetti, ma anche al loro funzionamento tecnico.
